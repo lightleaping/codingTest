@@ -1,4 +1,4 @@
-# codingTest-python
+# codingTest
 
 ## Overview
 my solutions to coding test problems from various platforms such as Programmers, Baekjoon.
@@ -8,10 +8,11 @@ my solutions to coding test problems from various platforms such as Programmers,
 - `baekjoon/` : Solutions for Baekjoon problems  
 - `etc/` : Other algorithms and custom implementations
 
-## Problem Structure for Each Platforms
+## Solution List
+(Problem Structure for Each Platforms)
 
 ### Programmers
-| Problem | Level | Code | Explanation |
+| Problem | Level | Language | Explanation |
 
 ### Baekjoon  
-| Problem | Number | Code | Explanation |
+| Problem | Number | Language | Explanation |
