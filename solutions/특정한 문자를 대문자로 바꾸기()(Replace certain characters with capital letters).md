@@ -6,5 +6,6 @@
 
 ## Python 코드(Python Code)
 ```
+```
 
-🔙 [뒤로 가기](../README.md)(Go back)
+[뒤로 가기](../README.md)(Go back)
