@@ -8,6 +8,8 @@
 2. for문 안의 if문으로 두 글자가 서로 일치하는 경우 대문자로 바꾸어 새로운 문자열에 추가, 일치하지 않는 경우 그대로 추가한다.
 3. return 새로운 문자열.
 
+---
+
 1. Use a for statement to check whether the characters in my_string match the characters in alp one by one.
 2. If two letters match in the if statement within the for statement, change them to uppercase and add them to a new string. If they do not match, add them as is.
 3. return new string.
