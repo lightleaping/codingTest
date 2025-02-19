@@ -1,5 +1,7 @@
 # codingTest
 
+# python
+
 ## Overview
 my solutions to coding test problems from various platforms such as Programmers, Baekjoon.
 
