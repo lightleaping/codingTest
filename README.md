@@ -15,6 +15,7 @@ my solutions to coding test problems from various platforms such as Programmers,
 | Problem | Level | Language | Explanation |
 |---------|-------|------|------------|
 | [특정한 문자를 대문자로 바꾸기(Replace certain characters with capital letters)](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | Level 0 | [Python code](./python/programmers/level0/solve1.py) | [Explanation](./solutions/특정한_문자를_대문자로_바꾸기_Replace_certain_characters_with_capital_letters.md) |
+| [A 강조하기(Emphasizing A))](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | Level 0 | [Python code](./python/programmers/level0/solve2.py) | [Explanation](./solutions/A_강조하기_Emphasizing_A.md) |
 
 ### Baekjoon
 | Problem | Number | Language | Explanation |
