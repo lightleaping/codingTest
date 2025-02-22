@@ -53,6 +53,7 @@ TypeError: 'str' object does not support item assignment (문자열은 불변, �
 (-> 문자열 슬라이싱, 리스트 변환 후 변경 후 문자열 변환, replace() 사용)
 IndexError: list index out of range
 IndexError: string index out of range
+
 홀수번째 인덱스 == 인덱스가 홀수인 경우(1, 3, ...)
 
 [뒤로 가기](../README.md)(Go back)
